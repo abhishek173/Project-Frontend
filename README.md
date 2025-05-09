@@ -23,7 +23,7 @@ This is a modern React-based frontend application designed to be modular, mainta
 
    ```bash
    git clone https://github.com/abhishek173/Project-Frontend.git
-   cd your-repo-name/frontend
+   cd Project-Frontend/frontend
    ```
 
 2. Install dependencies:
