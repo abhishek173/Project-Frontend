@@ -15,7 +15,7 @@ This is a modern React-based frontend application designed to be modular, mainta
 ### Prerequisites
 
 - Node.js (v14 or higher recommended)
-- npm or yarn
+- npm 
 
 ### Installation
 
